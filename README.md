@@ -11,7 +11,7 @@ mugwe bets
 <h1>mugwe bets</h1><br />
 <span style="background-color: #CC0000">paybill 200999<br />account 0801290386409</span>
             <p style="text-align: center" < form action="smaple-page-handler.html">
-                <label>
+                <label> 
                     username:
                     <input type="text" />
            </label> <br />
